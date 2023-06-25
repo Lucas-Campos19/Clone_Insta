@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+}
+.cabecalho img{
+    width: 100px;
+    height: 45px;
+}
+.menu__principal{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 3% 0% 0% 4%;
+}
+.conteudo{
+    padding: 5% 0% 2% 0%;
+}
+.imagens{
+    display: flex;
+    gap: 20px;
+    
+}
+.imagens_stories{
+    border: 1px solid #D92567;
+    border-radius: 50%;
+}
+.rolagem{
+    padding: 5% 4% 0% 0%;
+}
+.box_foto img{
+    border: 1px solid;
+    border-radius: 50%;
+}
+.botao{
+    margin-top: 9%;
+}
